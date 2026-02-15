@@ -25,7 +25,7 @@ Select **one** functional mobile application based in Ethiopia (e.g., Ride, Tele
 ### Phase 2: Upload Deliverables
 Upload the following files directly to your repository via the browser:
 
-1.  **Tutorial Proof:** The `mobileapp.png` you created while following the `ux.pdf` guide.
+1.  **Tutorial Proof:** The `eQUB.png` you created while following the `ux.pdf` guide.
 2.  **Main Project:** The images/PDFs of your Ethiopian App design.
     *  export as PNG/JPG.
 3.  **App Info:** Open `README.md` and fill in the details below.
@@ -33,7 +33,7 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > [eQUB]
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
